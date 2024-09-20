@@ -1,0 +1,45 @@
+{
+    "image_name": "DJI_0021.JPG",
+    "latitude": 51.39370013888889,
+    "longitude": -1.5558726388888888,
+    "found_classifications": [
+        "ash_dieback"
+    ],
+    "number_of_bboxes": 3,
+    "screen_density": 0.0380517578125,
+    "box_details": [
+        {
+            "id": 1,
+            "box": [
+                334,
+                255,
+                380,
+                313
+            ],
+            "class": "ash_dieback",
+            "confidence": "89.56%"
+        },
+        {
+            "id": 2,
+            "box": [
+                487,
+                552,
+                593,
+                639
+            ],
+            "class": "ash_dieback",
+            "confidence": "79.38%"
+        },
+        {
+            "id": 3,
+            "box": [
+                581,
+                373,
+                637,
+                439
+            ],
+            "class": "ash_dieback",
+            "confidence": "77.63%"
+        }
+    ]
+}

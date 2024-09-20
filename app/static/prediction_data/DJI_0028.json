@@ -1,0 +1,100 @@
+{
+    "image_name": "DJI_0028.JPG",
+    "latitude": 51.39324413888889,
+    "longitude": -1.5549217222222222,
+    "found_classifications": [
+        "ash_dieback"
+    ],
+    "number_of_bboxes": 8,
+    "screen_density": 0.1129443359375,
+    "box_details": [
+        {
+            "id": 1,
+            "box": [
+                336,
+                256,
+                413,
+                339
+            ],
+            "class": "ash_dieback",
+            "confidence": "93.22%"
+        },
+        {
+            "id": 2,
+            "box": [
+                386,
+                438,
+                442,
+                514
+            ],
+            "class": "ash_dieback",
+            "confidence": "92.31%"
+        },
+        {
+            "id": 3,
+            "box": [
+                12,
+                497,
+                127,
+                618
+            ],
+            "class": "ash_dieback",
+            "confidence": "88.42%"
+        },
+        {
+            "id": 4,
+            "box": [
+                36,
+                82,
+                75,
+                140
+            ],
+            "class": "ash_dieback",
+            "confidence": "88.00%"
+        },
+        {
+            "id": 5,
+            "box": [
+                77,
+                363,
+                178,
+                472
+            ],
+            "class": "ash_dieback",
+            "confidence": "82.32%"
+        },
+        {
+            "id": 6,
+            "box": [
+                203,
+                577,
+                284,
+                639
+            ],
+            "class": "ash_dieback",
+            "confidence": "77.97%"
+        },
+        {
+            "id": 7,
+            "box": [
+                430,
+                180,
+                452,
+                212
+            ],
+            "class": "ash_dieback",
+            "confidence": "70.70%"
+        },
+        {
+            "id": 8,
+            "box": [
+                279,
+                242,
+                330,
+                295
+            ],
+            "class": "ash_dieback",
+            "confidence": "61.67%"
+        }
+    ]
+}

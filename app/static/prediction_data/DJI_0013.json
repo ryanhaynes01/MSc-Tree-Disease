@@ -1,0 +1,34 @@
+{
+    "image_name": "DJI_0013.JPG",
+    "latitude": 51.39221547222222,
+    "longitude": -1.5546144444444445,
+    "found_classifications": [
+        "ash_dieback"
+    ],
+    "number_of_bboxes": 2,
+    "screen_density": 0.02277587890625,
+    "box_details": [
+        {
+            "id": 1,
+            "box": [
+                575,
+                116,
+                639,
+                212
+            ],
+            "class": "ash_dieback",
+            "confidence": "74.33%"
+        },
+        {
+            "id": 2,
+            "box": [
+                141,
+                247,
+                190,
+                312
+            ],
+            "class": "ash_dieback",
+            "confidence": "68.27%"
+        }
+    ]
+}
